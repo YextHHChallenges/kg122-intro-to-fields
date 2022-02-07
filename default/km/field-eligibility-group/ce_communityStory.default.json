@@ -1,0 +1,10 @@
+{
+  "$id": "ce_communityStory.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Community Story-default",
+  "entityType": "ce_communityStory",
+  "fields": [
+    "description",
+    "videos"
+  ]
+}
